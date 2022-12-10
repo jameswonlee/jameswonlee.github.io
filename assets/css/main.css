@@ -4109,3 +4109,16 @@ input, select, textarea {
 					}
 
 	}
+
+.col-12-xsmall {
+	/* background-color: rgb(28, 29, 38); */
+}
+
+.dark {
+	background-color: rgb(28, 29, 38);
+}
+
+.react {
+	height: 100px;
+	width: 100px;
+}
