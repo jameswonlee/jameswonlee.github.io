@@ -4373,3 +4373,7 @@ body.is-touch #banner {
 	height: 100px;
 	width: 100px;
 }
+
+.div-spacing {
+  height: 25px;
+}
