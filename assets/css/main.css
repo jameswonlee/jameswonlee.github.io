@@ -2670,8 +2670,6 @@ input[type="radio"] + label:before {
   text-shadow: 1px 0 0 #ffffff, -1px 0 0 #ffffff, 0 1px 0 #ffffff,
     0 -1px 0 #ffffff;
 }
-
-
 /* Image */
 
 .image {
